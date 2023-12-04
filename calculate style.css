@@ -1,0 +1,34 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.calculatorbox{
+    width: 330px;
+    height: 267px;
+    background-color: burlywood;
+    border-radius: 4%;
+    border: 2px solid black;
+}
+.cal{
+    width: 323px;
+    height: 62px;
+    color: green;
+    margin-left: 3px;
+    border-radius: 1.9%;
+    color: aliceblue;
+    background-color: black;
+}
+.keys{
+    width: 320px;
+    height: 500px;
+    margin-left: 5px;
+    border: 8% solid rgb(37, 37, 26);
+    
+}
+.w{
+    width: 19%;
+    height: 7.7%;
+    border-radius: 5px;
+    background-color: lightcyan;
+}
